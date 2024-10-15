@@ -1,0 +1,4 @@
+In order for this scan to be effective on an external endpoint:
+
+          The target Operating system's TCP/IP implementation is based on RFC 793, else
+          results from the scan make yield inaccuracy.
