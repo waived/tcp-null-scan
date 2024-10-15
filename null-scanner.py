@@ -158,7 +158,7 @@ def main():
     except:
         pass    
     
-    sys.exit('\r\n\r\nMore free junk @ github.com/waived')
+    sys.exit('\r\n\r\nWaived holds the game down :)')
 
 if __name__ == '__main__':
     main()
